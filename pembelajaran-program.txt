@@ -2,8 +2,9 @@ MATERI PEMBELAJARAN PROGRAM
 
 - Laravel
   * Membuat online Shop
+  ^ Toko Bunga
+  ^ Toko buku
   * Membuat Company Profile
--Android
 - React
 - Github
 - Web Security
