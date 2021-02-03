@@ -2,8 +2,11 @@ MATERI PEMBELAJARAN PROGRAM
 
 - Laravel
   * Membuat online Shop
+   ^Toko Alat Olahraga
   * Membuat Company Profile
 -Android
+ ^membuat aplikasi sederhana
 - React
 - Github
 - Web Security
+-Python
